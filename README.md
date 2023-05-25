@@ -12,3 +12,4 @@ Advantages of wifi robots:
 The advantage for going wireless is the freedom of mobility that a wireless robot has.
 The robots don’t need any wired connection to work.
 It can be operated easily by anyone through voice command.
+![image](https://github.com/Archithakm/wifi-talking-robots/assets/110973333/947acd25-fb97-40ea-ad7e-95e137260912)
